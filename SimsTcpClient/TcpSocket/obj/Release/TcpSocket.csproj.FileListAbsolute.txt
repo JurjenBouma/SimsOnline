@@ -1,0 +1,5 @@
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsTcpClient\TcpSocket\bin\Release\TcpSocket.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsTcpClient\TcpSocket\bin\Release\TcpSocket.pdb
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsTcpClient\TcpSocket\obj\Release\TcpSocket.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsTcpClient\TcpSocket\obj\Release\TcpSocket.pdb
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsTcpClient\TcpSocket\obj\Release\TcpSocket.csprojResolveAssemblyReference.cache

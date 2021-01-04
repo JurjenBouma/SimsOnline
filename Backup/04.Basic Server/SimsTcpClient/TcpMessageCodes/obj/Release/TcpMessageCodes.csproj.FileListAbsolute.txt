@@ -1,0 +1,5 @@
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsTcpClient\TcpMessageCodes\bin\Release\TcpMessageCodes.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsTcpClient\TcpMessageCodes\bin\Release\TcpMessageCodes.pdb
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsTcpClient\TcpMessageCodes\obj\Release\TcpMessageCodes.csprojResolveAssemblyReference.cache
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsTcpClient\TcpMessageCodes\obj\Release\TcpMessageCodes.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsTcpClient\TcpMessageCodes\obj\Release\TcpMessageCodes.pdb

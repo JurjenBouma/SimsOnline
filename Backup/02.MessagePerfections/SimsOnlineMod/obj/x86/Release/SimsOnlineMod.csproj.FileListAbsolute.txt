@@ -1,0 +1,7 @@
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsOnlineMod\bin\x86\Release\SimsOnlineMod.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsOnlineMod\bin\x86\Release\SimsOnlineMod.pdb
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsOnlineMod\obj\x86\Release\SimsOnlineMod.csprojResolveAssemblyReference.cache
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsOnlineMod\obj\x86\Release\SimsOnlineMod.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsOnlineMod\obj\x86\Release\SimsOnlineMod.pdb
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsOnlineMod\bin\x86\Release\MessageCodes.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsOnlineMod\bin\x86\Release\MessageCodes.pdb

@@ -1,0 +1,5 @@
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsOnlineMod\bin\x86\Debug\SimsOnlineMod.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsOnlineMod\bin\x86\Debug\SimsOnlineMod.pdb
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsOnlineMod\obj\x86\Debug\SimsOnlineMod.csprojResolveAssemblyReference.cache
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsOnlineMod\obj\x86\Debug\SimsOnlineMod.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsOnlineMod\obj\x86\Debug\SimsOnlineMod.pdb

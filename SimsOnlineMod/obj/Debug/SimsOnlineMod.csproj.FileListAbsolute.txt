@@ -1,0 +1,5 @@
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsOnlineMod\bin\Debug\SimsOnlineMod.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsOnlineMod\bin\Debug\SimsOnlineMod.pdb
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsOnlineMod\bin\Debug\mscorlib.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsOnlineMod\obj\Debug\SimsOnlineMod.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\SimsOnlineMod\obj\Debug\SimsOnlineMod.pdb

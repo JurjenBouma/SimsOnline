@@ -1,0 +1,5 @@
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\Sims3TestDll\bin\x86\Release\Sims3TestDll.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\Sims3TestDll\bin\x86\Release\Sims3TestDll.pdb
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\Sims3TestDll\obj\x86\Release\Sims3TestDll.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\Sims3TestDll\obj\x86\Release\Sims3TestDll.pdb
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\Sims3TestDll\obj\x86\Release\Sims3TestDll.csprojResolveAssemblyReference.cache

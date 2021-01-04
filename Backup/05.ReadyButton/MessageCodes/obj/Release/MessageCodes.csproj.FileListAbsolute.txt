@@ -1,0 +1,4 @@
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\MessageCodes\bin\Release\MessageCodes.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\MessageCodes\bin\Release\MessageCodes.pdb
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\MessageCodes\obj\Release\MessageCodes.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\MessageCodes\obj\Release\MessageCodes.pdb

@@ -1,0 +1,6 @@
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\Updater\bin\Release\Updater.exe.config
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\Updater\bin\Release\Updater.exe
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\Updater\bin\Release\Updater.pdb
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\Updater\obj\Release\Updater.csprojResolveAssemblyReference.cache
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\Updater\obj\Release\Updater.exe
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\Updater\obj\Release\Updater.pdb

@@ -1,0 +1,5 @@
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\ModInitializer\bin\Debug\Sims3ModInitializer.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\ModInitializer\bin\Debug\Sims3ModInitializer.pdb
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\ModInitializer\obj\Debug\ModInitializer.csprojResolveAssemblyReference.cache
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\ModInitializer\obj\Debug\Sims3ModInitializer.dll
+D:\Users\Jurjen\Documents\Visual Studio 2013\Projects\Sims3 mods\SimsOnline\ModInitializer\obj\Debug\Sims3ModInitializer.pdb
